@@ -1,0 +1,41 @@
+Trust me, If you can answer these questions, you won’t fail a Data Engineer interview! 
+
+𝐁𝐚𝐬𝐢𝐜 ⇝𝐋𝐚𝐲𝐢𝐧𝐠 𝐭𝐡𝐞 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧
+↳ What is ETL, and how does it differ from ELT?
+↳ What are the different types of databases (SQL vs NoSQL)?
+↳ Explain the difference between OLTP and OLAP.
+↳ What is a Data Warehouse, and how does it work?
+↳ What are ACID properties in databases?
+↳ How do indexes improve query performance?
+↳ What is partitioning in databases, and why is it important?
+↳ What are primary and foreign keys?
+↳ What is normalization, and why is it used?
+↳ Explain the difference between batch and real-time processing.
+↳ What is a Data Lake, and how does it differ from a Data Warehouse?
+↳ How does cloud computing impact Data Engineering?
+
+𝐈𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞 ⇝𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐢𝐧𝐠 & 𝐒𝐜𝐚𝐥𝐢𝐧𝐠
+↳ What are the different types of joins in SQL?
+↳ How do you optimize SQL queries for performance?
+↳ What is Apache Spark, and how does it improve big data processing?
+↳ Explain the difference between DataFrames and Datasets in Spark.
+↳ How does Spark handle distributed computing?
+↳ What is Apache Airflow, and how is it used for workflow automation?
+↳ How do you build an efficient data pipeline?
+↳ What is data partitioning in Spark, and why is it useful?
+↳ Explain the role of message queues like Kafka in data engineering.
+↳ How does caching improve performance in Spark?
+↳ What is schema evolution, and how does it work in data pipelines?
+↳ How do you handle bad data in ETL pipelines
+
+𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 ⇝𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠
+↳ How do you design a fault-tolerant data pipeline?
+↳ What is Delta Lake, and how does it improve data reliability?
+↳ Explain the concept of Data Mesh and how it differs from a Data Warehouse.
+↳ What are the best practices for handling large-scale data processing?
+↳ How does Kubernetes help in containerizing data pipelines?
+↳ How do you implement CI/CD in data engineering projects?
+↳ How do you ensure data quality and integrity in pipelines?
+↳ What is Data Lineage, and why is it important?
+↳ How do you scale ETL pipelines for high-volume data?
+↳ How do you integrate Spark with cloud services like AWS Glue or Databricks?
