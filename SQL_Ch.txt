@@ -1,0 +1,18 @@
+🔥 SQL Challenge for Aspiring Data Analysts! 🔥
+
+If you’re preparing for a data analyst interview, here’s a most-asked SQL question to test your skills!
+
+👉 Question:
+How do you find duplicate records in a table?
+
+You have a table called sales_data with this structure:
+order_id
+product_name
+customer_id
+order_date
+
+⚡ Challenge: Write a SQL query to identify duplicate order_id values in the sales_data table.
+
+✨ Bonus: How would you delete those duplicates while keeping only the most recent order?
+
+Drop your answers in the comments! Let’s learn from each other and sharpen those SQL skills together. 🚀
